@@ -182,6 +182,7 @@ This application provides a platform for job seekers to find and apply for jobs,
 
 ## Project Structure
 
+```text
 job-portal/
 ├── src/main/java/
 │   ├── com/yourpackage/
